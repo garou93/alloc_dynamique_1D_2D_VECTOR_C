@@ -1,4 +1,5 @@
 ###################### 1D 2D vector
+
 allocation dynamique: 1D, 2D , vector : La joie!
 
 
@@ -12,3 +13,9 @@ allocation dynamique: 1D, 2D , vector : La joie!
 				- pointer to pointer
 				- single pointer
 * creation de vector en C
+
+
+
+
+----------
+beihh v nn
